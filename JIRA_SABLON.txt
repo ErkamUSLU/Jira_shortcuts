@@ -1,0 +1,75 @@
+<div class="jePanel_blue" style="margin: 1em; border: 1px solid rgb(226, 226, 226); border-image: none; background-color: rgb(226, 226, 226);">
+<div class="jePanelHeader" style="padding: 0.3em; text-align: center; font-weight: bold; border-bottom-color: rgb(128, 128, 128); border-bottom-width: 1px; border-bottom-style: solid; ">ÖZET :</div>
+
+<div class="jePanelContent" style="padding: 0.5em 2em;">
+<p>Kartografik çizim aktifken Kaydır, Kopyala Kaydır, Döndür gibi düzenleme işlemleri yapılırken veri transferi anlık olarak gösterilmemektedir. Bu durum yoğun verilerde işlemin ne kadar süreceğinin kestirilememesine sebep olmaktadır.</p>
+
+<p>&nbsp;</p>
+</div>
+</div>
+
+<div class="jePanel_yell" style="margin: 1em; border: 1px solid rgb(240, 239, 235); border-image: none; background-color: rgb(240, 239, 235);">
+<div class="jePanelHeader_red" style="padding: 0.3em; text-align: center; font-weight: bold; border-bottom-color: rgb(128, 128, 128); border-bottom-width: 1px; border-bottom-style: solid; background-color: rgb(240, 239, 235);">TEKRAR ADIMLARI</div>
+
+<div class="jePanelContent" style="padding: 0.5em 2em;">
+<ul>
+	<li>Dizindeki NCZ dosyası açılır.</li>
+</ul>
+
+<p><a href="file://\\ntserver\E\HATA\NCE-13541">\\ntserver\E\HATA\NCE-13541</a>&nbsp;</p>
+
+<ul>
+	<li>Kaydır işlemine girilir. A noktası referans gösterilerek B noktasına kaydırma işlemi yapılır.</li>
+	<li>Kartografik çizim aktifken kaydırma işlemi yapılırken kaydırılan veriler anlık olarak çizim ekranında gösterilmemektedir.</li>
+	<li>Sahadaki versiyonda böyle bir durum bulunmamaktadır. İşlemin süresi kestirilemiyor.</li>
+	<li>Kullanıcılar bu durumdan şikayetçi olabilir.</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="jePanel_yell" style="margin: 1em; border: 1px solid rgb(240, 239, 235); border-image: none; background-color: rgb(240, 239, 235);">
+<div class="jePanelHeader_red" style="padding: 0.3em; text-align: center; font-weight: bold; border-bottom-color: rgb(128, 128, 128); border-bottom-width: 1px; border-bottom-style: solid; background-color: rgb(240, 239, 235);">BEKLENEN SONUÇ</div>
+
+<div class="jePanelContent" style="padding: 0.5em 2em;">
+<ul>
+	<li>Dizindeki NCZ dosyası açılır.</li>
+</ul>
+
+<p><a href="file://\\ntserver\E\HATA\NCE-13541">\\ntserver\E\HATA\NCE-13541</a>&nbsp;</p>
+
+<ul>
+	<li>Kaydır işlemine girilir. A noktası referans gösterilerek B noktasına kaydırma işlemi yapılır.</li>
+	<li>Kartografik çizim aktifken kaydırma işlemi yapılırken kaydırılan veriler anlık olarak çizim ekranında gösterilmemektedir.</li>
+	<li>Sahadaki versiyonda böyle bir durum bulunmamaktadır. İşlemin süresi kestirilemiyor.</li>
+	<li>Kullanıcılar bu durumdan şikayetçi olabilir.</li>
+</ul>
+
+
+</div>
+</div>
+<div class="jePanel_yell" style="margin: 1em; border: 1px solid rgb(240, 239, 235); border-image: none; background-color: rgb(240, 239, 235);">
+<div class="jePanelHeader_red" style="padding: 0.3em; padding-left: 10px; text-align: center; font-weight: bold; border-bottom-color: rgb(128, 128, 128); border-bottom-width: 1px; border-bottom-style: solid; background-color: rgb(240, 239, 235);">ORTAM BİLGİLERİ :</div>
+<p>&nbsp;<b>SVN NO:</b> </p>
+<p>&nbsp;<b>URL:</b> </p>
+<p>&nbsp;<b>Tarayıcı:</b> Google Chrome 119.0.6045.160</p>
+<p>&nbsp;<b>İşletim Sistemi:</b> Microsoft Windows 11 Pro</p>
+<div class="jePanelContent" style="padding: 0.5em 2em;">
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</div>
+</div>
+
+<div class="jePanel_blue" style="margin: 1em; border: 1px solid rgb(240, 239, 235); border-image: none; background-color: rgb(240, 239, 235);">
+<div class="jePanelHeader" style="padding: 0.3em; text-align: center; font-weight: bold; border-bottom-color: rgb(128, 128, 128); border-bottom-width: 1px; border-bottom-style: solid; background-color: rgb(240, 239, 235);">NOTLAR :</div>
+
+<div class="jePanelContent" style="padding: 0.5em 2em;">
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</div>
+</div>
+
+<p>&nbsp;</p>
